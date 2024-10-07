@@ -21,3 +21,11 @@ This project involves the exploratory data analysis (EDA) and data preprocessing
 - Trends in Reviews: There was a significant increase in reviews in 2023, possibly due to increased travel or better guest engagement.
 - Word Cloud: Common review themes include "staff," "location," "clean," and "room," suggesting that cleanliness and hotel staff play key roles in guest satisfaction.
 - Review Length vs Rating: Longer reviews tend to correspond with higher ratings, while shorter reviews are more evenly distributed across all rating levels.
+
+# Conclusion
+- The analysis revealed several key trends in guest satisfaction and review patterns. 
+- The insights from this analysis can be useful for hotel management to improve guest experience and for potential travelers to make informed decisions.
+
+# Next Steps
+- Sentiment Analysis: Applying sentiment analysis to review text to further classify positive, negative, or neutral reviews.
+- Deeper Analysis: Investigating specific patterns related to low-rated hotels to identify common complaints or areas of improvement.
